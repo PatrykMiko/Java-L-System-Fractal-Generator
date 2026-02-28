@@ -1,0 +1,14 @@
+{
+  "name": "A Bush",
+  "axiom": "F",
+  "rules": {
+    "F": "F[+FF][-FF]F[-F][+F]F"
+  },
+  "symbolColors": {
+    "F": "green"
+  },
+  "stepLength": 10.0,
+  "angleIncrement": 36.0,
+  "iterations": 4,
+  "allLetterForward": false
+}

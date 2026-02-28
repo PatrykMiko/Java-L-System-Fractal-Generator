@@ -1,0 +1,14 @@
+{
+  "name": "Island",
+  "axiom": "F+F+F+F",
+  "rules": {
+    "F": "FF+F+F+F+F+F-F"
+  },
+  "symbolColors": {
+    "F": "red"
+  },
+  "stepLength": 5.0,
+  "angleIncrement": 90.0,
+  "iterations": 3,
+  "allLetterForward": true
+}

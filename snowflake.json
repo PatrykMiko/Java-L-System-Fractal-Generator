@@ -1,0 +1,14 @@
+{
+  "name": "Snowflake",
+  "axiom": "F-F-F-F-F",
+  "rules": {
+    "F": "F-F-F++F+F-F"
+  },
+  "symbolColors": {
+    "F": "white"
+  },
+  "stepLength": 5.0,
+  "angleIncrement": 72.0,
+  "iterations": 4,
+  "allLetterForward": true
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Choinka",
+  "axiom": "X S",
+  "rules": {
+    "X": "F[+Y][-Y]F B",
+    "Y": "F[+X][-X]F W",
+    "F": "FF",
+    "B": "[r][+r][++r][+++r][++++r][+++++r][++++++r][+++++++r]",
+    "W": "[w][+w][++w][+++w][++++w][+++++w][++++++w][+++++++w]",
+    "S": "[yy][+yy][++yy][+++yy][++++yy][+++++yy][++++++yy][+++++++yy]",
+    "r": "r",
+    "w": "w",
+    "y": "y"
+  },
+  "symbolColors": {
+    "F": "green",
+    "r": "red",
+    "w": "white",
+    "y": "yellow",
+    "B": "red",
+    "W": "white",
+    "S": "yellow"
+  },
+  "stepLength": 6.0,
+  "angleIncrement": 45.0,
+  "iterations": 5,
+  "allLetterForward": true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sierpinski triangles",
+  "axiom": "F-G-G",
+  "rules": {
+    "F": "F-G+F+G-F",
+    "G": "GG"
+  },
+  "symbolColors": {
+    "F": "blue",
+    "G": "gray"
+  },
+  "stepLength": 6.0,
+  "angleIncrement": 120.0,
+  "iterations": 3,
+  "allLetterForward": true
+}
