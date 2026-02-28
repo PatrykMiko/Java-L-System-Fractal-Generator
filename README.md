@@ -1,5 +1,7 @@
 # Java L-System Fractal Generator
 
+![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Gson](https://img.shields.io/badge/Gson-JSON_Parsing-0466CE?style=for-the-badge&logo=json&logoColor=white)
+
 A Java Swing application that generates and renders complex procedural fractals based on **Lindenmayer Systems (L-Systems)**. 
 
 
